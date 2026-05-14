@@ -94,21 +94,18 @@
 
 
 
-----
+---- Waka Time:
 
 <table>
 <tr>
-<td align="center">:octocat: <a href="https://www.githubwrapped.io/devarthuraugusto" target="_blank">GitHub Wrapped</a></td>
-<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@devarthuraugusto">WakaTime</a></td>
+ <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@devarthuraugusto">WakaTime</a></td>
 </tr> 
 <tr>
-<td><img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/devarthuraugusto/repos?time_range=one_year&loc_metric=changed&theme=dark"/></td>
-<td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=devarthuraugusto&theme=dark&langs_count=12"/></td>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=devarthuraugusto&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=devarthuraugusto&theme=dark&layout=compact"/>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=devarthuraugusto&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
 </td>
 </tr>
 </table>
-
 
 ---
