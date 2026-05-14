@@ -90,13 +90,16 @@
 
 -----
 
-[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=devarthuraugusto&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
+<div align="center">
+  <a href="https://nice-readme.vercel.app/github-stats">
+    <img src="https://helio-github-stats.vercel.app/api?username=devarthuraugusto&custom_title=GitHub+Stats&theme=dark&title_color=2f80ed&text_color=1475db&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" />
+  </a>
+  <a href="https://nice-readme.vercel.app/streak-stats">
+    <img src="https://github-streak-stats-ruby.vercel.app/?user=devarthuraugusto&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=Sun%2CSat" alt="GitHub Streak" width="466" />
+  </a>
+</div>
 
-[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=devarthuraugusto&custom_title=GitHub+Stats&theme=dark&title_color=2f80ed&text_color=1475db&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
-
-
-
----- Waka Time:
+----
 
 <table>
 <tr>
@@ -110,16 +113,11 @@
 </tr>
 </table>
 
----
-
-
------
-
------
+----
 
 <div>
 <details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Aramuni's Spotify Data</summary>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Dados de Spotify do Arthur</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=z73jsmfw5g1kq9eu76vjo34tt" alt="Data Card for Spotify"/>
 </details>
 </div>
@@ -146,3 +144,10 @@
 </tr> 
 </table>
 </div>
+
+
+----
+
+[![Profile Views](https://komarev.com/ghpvc/?username=devarthuraugusto&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
+
+----
