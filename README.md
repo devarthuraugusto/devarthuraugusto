@@ -89,3 +89,26 @@
 </div>
 
 -----
+
+<a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=devarthuraugusto&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a>
+
+
+
+----
+
+<table>
+<tr>
+<td align="center">:octocat: <a href="https://www.githubwrapped.io/devarthuraugusto" target="_blank">GitHub Wrapped</a></td>
+<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@devarthuraugusto">WakaTime</a></td>
+</tr> 
+<tr>
+<td><img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/devarthuraugusto/repos?time_range=one_year&loc_metric=changed&theme=dark"/></td>
+<td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=devarthuraugusto&theme=dark&langs_count=12"/></td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=devarthuraugusto&theme=dark&layout=compact"/>
+</td>
+</tr>
+</table>
+
+
+---
