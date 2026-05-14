@@ -90,9 +90,9 @@
 
 -----
 
-<a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=devarthuraugusto&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a>
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=devarthuraugusto&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
 
-[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=devarthuraugusto&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=devarthuraugusto&custom_title=GitHub+Stats&theme=dark&title_color=2f80ed&text_color=1475db&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
 
 
 
@@ -111,3 +111,38 @@
 </table>
 
 ---
+
+
+-----
+
+-----
+
+<div>
+<details>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Aramuni's Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=z73jsmfw5g1kq9eu76vjo34tt" alt="Data Card for Spotify"/>
+</details>
+</div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=z73jsmfw5g1kq9eu76vjo34tt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=z73jsmfw5g1kq9eu76vjo34tt&count=10"/>
+</td>
+<td>
+<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
+<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
